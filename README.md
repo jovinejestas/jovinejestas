@@ -22,6 +22,8 @@ and yet disturbing fact.
 REACT Sql and non sql systems. 
 ,
 
+- Also, on my free time, i'm working on a my concept of modern data transfer and storage. Believing that we need to store and process data in an advanced way , I'm then working to enhance participation and better experience of a large number of network users using new methods of Data transfer and storage. This technology is currently dessigned an worked on using C,C++ and a bit of ASSEMBLY language. (private repo under TechXberg)
+
 
 - 📫 How to reach me ... jvjestas@gmail.com 
 +255658347876 #offline
